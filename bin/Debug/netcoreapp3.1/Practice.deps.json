@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practice/1.0.0": {
+        "dependencies": {
+          "JuhLib": "1.0.0"
+        },
+        "runtime": {
+          "Practice.dll": {}
+        }
+      },
+      "JuhLib/1.0.0": {
+        "runtime": {
+          "JuhLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JuhLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

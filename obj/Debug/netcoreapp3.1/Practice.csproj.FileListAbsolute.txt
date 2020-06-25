@@ -1,0 +1,16 @@
+C:\Users\juh\RiderProjects\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+C:\Users\juh\RiderProjects\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+C:\Users\juh\RiderProjects\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+C:\Users\juh\RiderProjects\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+C:\Users\juh\RiderProjects\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+C:\Users\juh\RiderProjects\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\juh\RiderProjects\Practice\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache
+C:\Users\juh\RiderProjects\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+C:\Users\juh\RiderProjects\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+C:\Users\juh\RiderProjects\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+C:\Users\juh\RiderProjects\Practice\obj\Debug\netcoreapp3.1\Practice.dll
+C:\Users\juh\RiderProjects\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\juh\RiderProjects\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache
+C:\Users\juh\RiderProjects\Practice\bin\Debug\netcoreapp3.1\JuhLib.dll
+C:\Users\juh\RiderProjects\Practice\bin\Debug\netcoreapp3.1\JuhLib.pdb
+C:\Users\juh\RiderProjects\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CopyComplete

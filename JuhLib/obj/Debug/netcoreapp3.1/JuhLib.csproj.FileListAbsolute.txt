@@ -1,0 +1,9 @@
+C:\Users\juh\RiderProjects\Practice\JuhLib\bin\Debug\netcoreapp3.1\JuhLib.deps.json
+C:\Users\juh\RiderProjects\Practice\JuhLib\bin\Debug\netcoreapp3.1\JuhLib.dll
+C:\Users\juh\RiderProjects\Practice\JuhLib\bin\Debug\netcoreapp3.1\JuhLib.pdb
+C:\Users\juh\RiderProjects\Practice\JuhLib\obj\Debug\netcoreapp3.1\JuhLib.csprojAssemblyReference.cache
+C:\Users\juh\RiderProjects\Practice\JuhLib\obj\Debug\netcoreapp3.1\JuhLib.csproj.CoreCompileInputs.cache
+C:\Users\juh\RiderProjects\Practice\JuhLib\obj\Debug\netcoreapp3.1\JuhLib.AssemblyInfoInputs.cache
+C:\Users\juh\RiderProjects\Practice\JuhLib\obj\Debug\netcoreapp3.1\JuhLib.AssemblyInfo.cs
+C:\Users\juh\RiderProjects\Practice\JuhLib\obj\Debug\netcoreapp3.1\JuhLib.dll
+C:\Users\juh\RiderProjects\Practice\JuhLib\obj\Debug\netcoreapp3.1\JuhLib.pdb
