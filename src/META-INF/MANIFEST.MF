@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: cf.juh9870.Main
+Class-Path: Lib.jar jline-3.15.0.jar jansi-1.18.jar
+
